@@ -5,4 +5,3 @@ slack-sdk
 slack-bolt
 flask
 langchain_community
-langchain_core.chains
